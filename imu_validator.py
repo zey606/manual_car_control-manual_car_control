@@ -1,4 +1,3 @@
-  GNU nano 6.2                                                                                                                                    imu_validator.py                                                                                                                                             
 from collections import deque
 
 import rclpy
