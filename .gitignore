@@ -8,3 +8,8 @@ __pycache__/
 secrets.h
 *.pem
 *.key
+
+# Gemstone işletim sistemi imajları
+*.img
+*.img.xz
+*.iso
