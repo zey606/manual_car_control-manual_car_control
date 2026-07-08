@@ -1,0 +1,10 @@
+build/
+install/
+log/
+__pycache__/
+*.pyc
+*.log
+.env
+secrets.h
+*.pem
+*.key
